@@ -39,7 +39,7 @@ public class Work9 {
 				}
 			}
 			
-			// 비교
+			// 비교!
 			System.out.print("user number = ");        
 			n = sc.nextInt();                    // user input
 			if(n > num) {					     // 사용자가 입력한 수가 클 경우

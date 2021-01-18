@@ -11,7 +11,7 @@ public class Work10 {
 			sum += arr[i];
 		}
 		System.out.println("sum= "+ sum);
-		System.out.println("======================");
+		System.out.println("=====================");
 		
 		// work 2.
 		int arr1[][] = {
@@ -34,7 +34,7 @@ public class Work10 {
 		
 		System.out.println("total = "+ total);
 		System.out.println("average = "+ average);
-		System.out.println("======================");
+		System.out.println("=====================");
 		
 		// work 3.
 		// 큰 금액의 동전을 우선적으로 거슬러 줘야 한다.
@@ -48,7 +48,7 @@ public class Work10 {
 			money= money-(coinUnit[i]*n);
 			n=0;
 		}
-		System.out.println("======================");
+		System.out.println("=====================");
 		
 		// work 4-1. 암호화
 		char abcCode[] =  
@@ -79,7 +79,7 @@ public class Work10 {
 		System.out.println("src:"+src);
 		System.out.println("result:"+result);
 		
-		System.out.println("======================");
+		System.out.println("=====================");
 		// work 4-2. 복호화
 		String baseCode = "";
 			
